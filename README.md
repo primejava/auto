@@ -7,6 +7,7 @@ linux运维工具
 # 功能介绍
 
 以前工作中用python写的一个小工具，导入服务器列表和脚本后就可以批量对服务器执行初始化操作和安装各种包，以及批量的项目部署。
+![image](https://github.com/primejava/auto/blob/main/image/image.png)
 
 详情见[视频](https://www.bilibili.com/video/BV19V411y7se/)。
 
